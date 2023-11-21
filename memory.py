@@ -1,6 +1,6 @@
 class memory:
     """
-    values work for: BUILD 12681469 (as of 11-17-2023)
+    values work for: BUILD 12681469 (as of 11-20-2023)
     Contains hardcoded offsets and magic numbers necessary to access the memory of Lethal Company (Lethal Company.exe)
     """
     def __init__(self, game_base_address):
