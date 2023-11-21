@@ -1,4 +1,4 @@
-# Lethal Company Wristwatch Python (PyMeow) External Cheat - 11/20/23
+# Lethal Company Wristwatch - 11/20/23
 
 shows the time at all times in lethal company, whether you are hosting or not. it has a faster refresh-rate, too! 
 
