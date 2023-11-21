@@ -14,8 +14,10 @@ from my understanding, this is a great unity-based game to learn how to develop 
 * 64-bit Python
 * [PyMeow](https://github.com/qb-0/pyMeow/)
 * Lethal Company
-
-# in action:
+# How to run
+* ensure all files are in the same folder 
+* run clock.py when you are in-game 
+# In action:
 ![image](https://github.com/xmrstickers/Lethal-Company-Wristwatch-Python-External-Cheat/assets/89484281/d2cd0221-0af9-4999-9762-39eda76088bc)
 
 ![image](https://github.com/xmrstickers/Lethal-Company-Wristwatch-Python-External-Cheat/assets/89484281/128857f0-39ea-44e8-a2e4-12a7dc1eb52c)
