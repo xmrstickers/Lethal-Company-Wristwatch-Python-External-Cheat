@@ -23,3 +23,6 @@ from my understanding, this is a great unity-based game to learn how to develop 
 ![image](https://github.com/xmrstickers/Lethal-Company-Wristwatch-Python-External-Cheat/assets/89484281/6a8d1112-8d3a-468a-b6c0-786c44b896a5)
 
 video: https://streamable.com/210u2m
+
+# known issues
+the time conversion function sucks (specifically 12's show as the wrong am/pm) 
