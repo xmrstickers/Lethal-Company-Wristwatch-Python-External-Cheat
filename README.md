@@ -10,7 +10,7 @@ from my understanding, this is a great unity-based game to learn how to develop 
 
 # Requirements:
 * 64-bit Python
-* [PyMeow](https://github.com/qb-0/pyMeow/)
+* PyMeow
 * Lethal Company
 
 # in action:
